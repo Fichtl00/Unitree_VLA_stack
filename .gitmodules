@@ -1,12 +1,13 @@
 [submodule "sim/unitree_sim_isaaclab"]
-	path = sim/unitree_sim_isaaclab
-	url = https://github.com/Fichtl00/unitree_sim_isaaclab.git
+    path = sim/unitree_sim_isaaclab
+    url = https://github.com/Fichtl00/unitree_sim_isaaclab.git
+
 [submodule "vla/unifolm-vla"]
-	path = vla/unifolm-vla
-	url = https://github.com/Fichtl00/unifolm-vla-inference-dds-shm-adapter.git
-[submodule "third_party/xr_teleoperate"]
-	path = third_party/xr_teleoperate
+    path = vla/unifolm-vla
+    url = https://github.com/Fichtl00/unifolm-vla-inference-dds-shm-adapter.git
+[submodule "external/xr_teleoperate"]
+	path = external/xr_teleoperate
 	url = https://github.com/unitreerobotics/xr_teleoperate.git
-[submodule "third_party/unitree_sdk2"]
-	path = third_party/unitree_sdk2
+[submodule "external/unitree_sdk2"]
+	path = external/unitree_sdk2
 	url = https://github.com/unitreerobotics/unitree_sdk2.git
