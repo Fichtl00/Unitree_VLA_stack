@@ -4,3 +4,9 @@
 [submodule "vla/unifolm-vla"]
 	path = vla/unifolm-vla
 	url = https://github.com/Fichtl00/unifolm-vla-inference-dds-shm-adapter.git
+[submodule "third_party/xr_teleoperate"]
+	path = third_party/xr_teleoperate
+	url = https://github.com/unitreerobotics/xr_teleoperate.git
+[submodule "third_party/unitree_sdk2"]
+	path = third_party/unitree_sdk2
+	url = https://github.com/unitreerobotics/unitree_sdk2.git
