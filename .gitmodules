@@ -1,0 +1,6 @@
+[submodule "sim/unitree_sim_isaaclab"]
+	path = sim/unitree_sim_isaaclab
+	url = https://github.com/Fichtl00/unitree_sim_isaaclab.git
+[submodule "vla/unifolm-vla"]
+	path = vla/unifolm-vla
+	url = https://github.com/Fichtl00/unifolm-vla-inference-dds-shm-adapter.git
